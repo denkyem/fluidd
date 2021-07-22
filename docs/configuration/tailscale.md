@@ -29,7 +29,7 @@ To do this you will need a Google or Microsoft account, as those are the only wa
   - Install [Tailscale Client](https://tailscale.com/download/linux/rpi) on your Raspberry Pi
 
 Then you should have something like this on your Tailscale, under Machines tab
-![screenshot](/assets/images/tailscale1.png)
+![screenshot](/docs/assets/images/tailscale1.png)
 
 
 ### Moonraker
@@ -68,4 +68,4 @@ In your smartphone/computer, not connected to your home/office network, make sur
 In the case of the example, it's [http://100.99.160.51](http://100.99.160.51)
 
 Then you just need to add your printer with Tailscale IP
-![screenshot](/assets/images/tailscale2.png)
+![screenshot](/docs/assets/images/tailscale2.png)
